@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <nav class="relative container mx-auto p-4">
+<div class="flex item-center justify-between">
+
+
+    <!-- logo -->
+<div class="pt-2">
+<img src="/img/logo.png" alt="">
+</div>
+    <div class="space-x-4">
+        <a href="#" class="hover:bg-veryDarkBlue">Home</a>
+        <a href="#" class="hover:bg-veryDarkBlue">Portfolio</a>
+        <a href="#" class="hover:bg-veryDarkBlue">Services</a>
+        <a href="#" class="hover:bg-veryDarkBlue">Blog</a>
+        <a href="#" class="hover:bg-veryDarkBlue">About us</a>
+    </div>
+    <a href="#" class="p-3 px-4 pt-2 text-white bg-black rounded-full hover:bg-veryDarkBlue">Work With Us</a>
+        </div>
+    </nav>
+
+
+    <!-- heroes section -->
+    <section id="hero">
+
+        <div class="container flex flex-col-reverse md:flex-row items-center px-6 mx-auto mt-10 space-y-0 md:space-y-0">
+        <div class="flex flex-col mb-32 space-y-12 md:w-1/2">
+    <h1 class="text-4xl font-bold text-center md:text-5xl md:text-left">Digital Marketing Solution For Your Business</h1>
+    <div>
+        <a href="#" class="p-3 px-4 pt-2 text-white bg-black rounded-full  hover:bg-veryDarkBlue">Button</a>
+        <a href="#" class="p-3 px-4 pt-2 text-black bg-white rounded-full  hover:bg-veryDarkBlue">Button</a> 
+    </div>
+    </div>
+
+    <!-- image -->
+    <div class="md:w-1/2">
+        <img src="/img/Saly-14 (2).png" alt="">
+    </div>
+    </div>
+    </section>
+
+
+    <!-- features section -->
+   <section id="features">
+<!-- image 1 -->
+    <div class="flex flex-col mt-24 md:flex-row md:space-x-6">
+    <div class="flex flex-col item-center p-6 space-y-4 rounded-lg bg-veryLightGray md:w-1/3">
+        <img src="/img/Icon (7).png" class="w-20 -mt-14" alt=""
+        />
+    <h5 class="text-lg font-bold">Web Design</h5> 
+    <p class="text-sm text-darkGrayishBlue"> "amet, consectetur adipisicing elit. Harum repellat excepturi error eveniet numquam animi"
+    </p>
+    <a href="#" class="underline hover:bg-veryDarkGrey">Find out more</a>
+    </div>
+
+     <!-- image 2 -->
+    <div class="flex flex-col item-center p-6 space-y-4 rounded-lg bg-veryLightGray md:w-1/3">
+        <img src="/img/Icon (9).png" class="w-20 -mt-14" alt=""
+        />
+    <h5 class="text-lg font-bold">Consultance</h5> 
+    <p class="text-sm text-darkGrayishBlue"> "amet, consectetur adipisicing elit. Harum repellat excepturi error eveniet numquam animi"
+    </p>
+    <a href="#" class="underline hover:bg-veryDarkGrey">Find out more</a>
+    </div>
+<!--image 3 -->
+    <div class="flex flex-col item-center p-6 space-y-4 rounded-lg bg-veryLightGray md:w-1/3">
+        <img src="/img/Icon (8).png" class="w-20 -mt-14" alt=""
+        />
+    <h5 class="text-lg font-bold">Web Development</h5> 
+    <p class="text-sm text-darkGrayishBlue"> "amet, consectetur adipisicing elit. Harum repellat excepturi error eveniet numquam animi"
+    </p>
+    <a href="#" class="underline hover:bg-veryDarkGrey">Find out more</a>
+    </div>
+    </div>
+</section>
+
+<!-- content section -->
+<section id="content" class="bg-brightRed">
+    <div class="container flex md:flex-row item-center px-6 mx-auto mt-10">
+<div>
+    <img src="/img/Frame 1 7 (1).png" class="w-50" alt="">
+</div>
+<div class="flex flex-col md:w-1/2 mb-24 mt-24">
+    <h6 class="max-w-md md:text-left text-black text-4xl underline">Who we are</h6>
+    <h1 class="text-5xl text-bold">
+        Professional team for your solution
+    </h1>
+    <p class="text-gray">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam possimus at corporis consequuntur, qui unde.
+    </p>
+</div>
+    </div>
+
+
+    <!-- item section -->
+<section id="items" class="bg-blue">
+    <div class="container flex md:flex-row items-center px-6 mx-auto mt-10 space-y-0 md:space-y-0">
+        <!-- left item -->
+        <div class="flex flex-col mb-32 space-y-12 md:w-1/2">
+    <h1 class="max-w-md text-4xl font-bold text-center md:text-5xl md:text-left">321___________1000</h1>
+    <p class="underline">Project</p>
+    <h2  class="max-w-md text-4xl font-bold text-center md:text-5xl md:text-left">654___________2000</h2>
+    <p class="underline">customers</p>
+    </div>
+    
+    
+        <!-- image -->
+        <div class="md:w-1/2">
+            <img src="/img/Frame 2 10 (1).png" alt="">
+        </div>
+    </div>
+    
+</section>
+
+<!-- CTA section -->
+<section id="cta">
+    <!-- flex container -->
+    <div class=" items-center px-6 py-24 mx-auto space-y-12 md:py-12">
+    <!-- heading -->
+        Why people love us
+    </h2>
+</section>
+
+<!-- testimonials  -->
+<section id="testimonials">
+    <div class="flex flex-col md:flex-row md:spacing-x-6">
+
+        <!-- testimonial 1 -->
+<div class="flex-col item-center p-6 space-y-6 rounded-lg md:w-1/3 bg-black" >
+    <p class="text-small text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iusto delectus voluptas est, repellendus obcaecati nisi ratione facere dicta ad?</p>
+    <div class="container flex md:flex-row item-center px-6 mx-auto mt-10">
+    <h1 class="font-bold text-4xl text-white">
+        Tonny.
+    </h1>
+        <img src="/img/Avatar.png"  alt="">
+</div>
+</div>
+
+<!-- testimonial 2 -->
+<div class="flex-col item-center p-6 space-y-4 rounded-lg md:w-1/3 bg-black">
+    <p class="text-small text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iusto delectus voluptas est, repellendus obcaecati nisi ratione facere dicta ad?</p>
+    <div class="container flex md:flex-row item-center px-6 mx-auto mt-10">
+    <h1 class="font-bold text-4xl text-white">
+        Sandry.
+    </h1>
+        <img src="/img/Avatar.png"  alt="">
+</div>
+</div>
+
+
+<!-- testimonial 3 -->
+<div class="flex-col item-center p-6 space-y-4 rounded-lg md:w-1/3 bg-black" >
+    <p class="text-small text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iusto delectus voluptas est, repellendus obcaecati nisi ratione facere dicta ad?</p>
+    <div class="container flex md:flex-row item-center px-6 mx-auto mt-10">
+    <h1 class="font-bold text-4xl text-white">
+        James.
+    </h1>
+        <img src="/img/Avatar.png"  alt="">
+</div>
+</div>
+</div>
+</section>
+
+<!-- alignment -->
+<section id="pics">
+    <div class=" items-center px-6 py-24 mx-auto space-y-12 md:py-12">
+<p class="text-2xl font-bold text-center text-black ">
+Portfolio
+</p>
+<h2 class="text-5xl font-bold text-center text-white ">Our project</h2>
+    </div>
+    <div class="container relative flex flex-col md:flex-row md:w-1/3 pt-4 space-x-4">
+
+        <div class="flex flex-col md:flex-row">
+            <img src="/img/high.png" alt="">
+            <img src="/img/diamond.png" alt="">
+            <img src="/img/spray.png" alt="">
+        </div>
+    </div>
+    <div class="flex flex-col md:flex-row md:w-1/3 pt-10 space-x-4">
+        <div class="flex flex-col md:flex-row">
+            <img src="/img/book.png" alt="">
+            <img src="/img/ngash.png" alt="">
+            <img src="/img/board.png" alt="">
+        </div>
+    </div>
+</section>
+
+<!-- faq and call to action -->
+<section id="faq" class="bg-black">
+    <div class="container flex-col ml-12 pt-24">
+<p class="text-sm font-bold text-white">Frequently asked questions </p>
+<h2 class="font-bold text-5xl text-white">How can we help?</h2>
+</div>  
+
+    <!-- place holder -->
+    <div class="flex flex-col">
+    <div class=" container flex flex-col justify-between spacing-x-5">
+        <form>
+    <div class="flex">
+    <input type="text" class="rounded-lg pt-3 p-3 mt-20"
+    placeholder="say something       +">
+    </div>
+        </form>
+    </div>
+    <!-- </div> -->
+    <div class=" container flex flex-col justify-between spacing-x-5">
+        <form>
+    <div class="flex">
+    <input type="text" class=" rounded-lg pt-16 pb-16 p-3 mt-8"
+    placeholder="sud emett en de qui     -">
+    <p class="container relative">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, in.</p>
+    </div>
+        </form>
+</div>
+<div class=" container flex flex-col justify-between spacing-x-5">
+    <form>
+<div class="flex">
+<input type="text" class=" rounded-lg pt-3 p-3 mt-8"
+placeholder="Say something     +">
+<p class="container relative">Say something.</p>
+</div>
+    </form>
+</div>
+</div>
+</section>
+
+<section id="sally" class="bg-white">
+<div class="flex flex-col container md:flex-row md:w-1/2 items-center">
+<div class="container flex item-center">
+<h1 class="text-4xl font-bold tex-black mt-12 p-12">
+    Lets work together
+</h1>
+</div>
+<div>
+    <a href="#" class="">Work with us</a>
+</div>
+</div>
+</section>
+</body>
+</html>
