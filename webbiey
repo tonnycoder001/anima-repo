@@ -17,7 +17,6 @@
 <a href="#" class="hover:bg-veryDarkBlue">Home</a>
 <a href="#" class="hover:bg-veryDarkBlue" >About us</a>
 <a href="#" class="hover:bg-veryDarkBlue" >Portfolio</a>
-<a href="#"  class="hover:bg-veryDarkBlue">Testimony</a>
 <a href="#"  class="hover:bg-veryDarkBlue">News</a>
 <a href="#" class="hover:bg-veryDarkBlue" >Contacts</a>
 </div>
